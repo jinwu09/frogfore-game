@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 346606ffefff7164fb710a710d649535
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1416
+        width: 286
+        height: 470
+      alignment: 9
+      pivot: {x: 0.6492195, y: 0.13485809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15232df9abf72c64181bf8a1939386cc
+      internalID: -1513906805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1422
+        width: 440
+        height: 445
+      alignment: 9
+      pivot: {x: 0.7460295, y: 0.13759765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0742d699c052645935ae1edd709328
+      internalID: 865421753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1023
+        width: 428
+        height: 869
+      alignment: 9
+      pivot: {x: 0.3053977, y: 0.1008614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7630f75b47afb46a439a812f3bc376
+      internalID: -2138885875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_3
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1329
+        width: 315
+        height: 546
+      alignment: 9
+      pivot: {x: 0.4955078, y: 0.1903387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a4ede1c4a16f4481b4107a486af7a
+      internalID: 868637591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 884
+        width: 286
+        height: 471
+      alignment: 9
+      pivot: {x: 0.33115998, y: 0.09082044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b7e28494a0bf46955ef76919f3379
+      internalID: -1032467346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 909
+        width: 439
+        height: 446
+      alignment: 9
+      pivot: {x: 0.2512798, y: 0.123885356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb73e84a6782b4da73a73b48c7ec0c
+      internalID: 1929288841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_6
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 645
+        width: 314
+        height: 546
+      alignment: 9
+      pivot: {x: 0.49080196, y: 0.17750253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498c015692c72e47b3f3457268891b4
+      internalID: -1726524274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 383
+        width: 305
+        height: 384
+      alignment: 9
+      pivot: {x: 0.79419184, y: 0.15264757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605090b19365d2d42ab5c4c4ebd03acd
+      internalID: -741228757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 383
+        width: 305
+        height: 384
+      alignment: 9
+      pivot: {x: 0.2010288, y: 0.12678981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fb961335edbeb45951fb8906da001f
+      internalID: 1599035885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 723
+        width: 219
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5747817, y: 0.35366312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2dd87e0e5882459635a3fbecc4199
+      internalID: -1510034578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_10
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 721
+        width: 254
+        height: 138
+      alignment: 9
+      pivot: {x: 0.44520053, y: 0.24615434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df84e5a880c63499ad9a6572283ba7
+      internalID: 1951309071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_11
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 717
+        width: 250
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5290503, y: 0.28337288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0400ba71a4100cd4a8fff993cf8b3556
+      internalID: -914214252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_12
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 564
+        width: 219
+        height: 84
+      alignment: 9
+      pivot: {x: 0.48434713, y: 0.308322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694cb1e8d7999b49b62bcc63f5ec0f1
+      internalID: -303198554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_13
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 536
+        width: 255
+        height: 138
+      alignment: 9
+      pivot: {x: 0.55120206, y: 0.2813199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace444b4c4514b44b88d5b0ae7332219
+      internalID: 125633255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_14
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 539
+        width: 249
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4520136, y: 0.30913898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adefd54a3b593344b198ab08dd08ba9
+      internalID: -770278148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 55
+        width: 402
+        height: 244
+      alignment: 9
+      pivot: {x: 0.49868083, y: 0.41150704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bd3a99eb514c34182841029a45431a
+      internalID: -2144145181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 52
+        width: 402
+        height: 245
+      alignment: 9
+      pivot: {x: 0.52138704, y: 0.3725702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392b83f4c7070642bf663bdf391e86a
+      internalID: -60948917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_17
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 87
+        width: 465
+        height: 176
+      alignment: 9
+      pivot: {x: 0.47176266, y: 0.31118062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df168475bb0f64a8e6305b98d86d51
+      internalID: -158875575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees_Grass_Rocks_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 87
+        width: 464
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5261396, y: 0.30868444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c15c0cab94d042ade6de906288999
+      internalID: -810775105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trees_Grass_Rocks_17: -158875575
+      Trees_Grass_Rocks_18: -810775105
+      Trees_Grass_Rocks_1: 865421753
+      Trees_Grass_Rocks_13: 125633255
+      Trees_Grass_Rocks_7: -741228757
+      Trees_Grass_Rocks_15: -2144145181
+      Trees_Grass_Rocks_14: -770278148
+      Trees_Grass_Rocks_2: -2138885875
+      Trees_Grass_Rocks_8: 1599035885
+      Trees_Grass_Rocks_16: -60948917
+      Trees_Grass_Rocks_3: 868637591
+      Trees_Grass_Rocks_0: -1513906805
+      Trees_Grass_Rocks_12: -303198554
+      Trees_Grass_Rocks_4: -1032467346
+      Trees_Grass_Rocks_9: -1510034578
+      Trees_Grass_Rocks_5: 1929288841
+      Trees_Grass_Rocks_6: -1726524274
+      Trees_Grass_Rocks_10: 1951309071
+      Trees_Grass_Rocks_11: -914214252
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

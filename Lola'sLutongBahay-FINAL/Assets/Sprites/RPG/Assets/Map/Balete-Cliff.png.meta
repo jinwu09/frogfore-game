@@ -1,0 +1,4711 @@
+fileFormatVersion: 2
+guid: b6fe4cc03a7c0224ebbf3f019dceb0b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Balete-Cliff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faabb283c32680444b78391a21f1cb4d
+      internalID: -2143207383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cfc478391344f458039c1b0fdbaa57
+      internalID: -723767410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd11e0c3afe6a64691069bf0f223f28
+      internalID: 1290317668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9911d026a19189438b20635befa2ce3
+      internalID: -652839547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8f7563374f4bc4a9c38dae9f100eeb
+      internalID: -1303730609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa14e99361ec1944aca1195672b8bea
+      internalID: -1398294015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_6
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf452b89f552ca4a94dad9e0f49bbe9
+      internalID: 1889582620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_7
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea52f59cf2454b4997e51c564cbf679
+      internalID: 1169130470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_8
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7470033e602b824b96c07a23d44b58a
+      internalID: -352906327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_9
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba433b217c8fef24ebc3d481716136b5
+      internalID: -478151447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_10
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7101124d818c7449b310ea42d943891
+      internalID: 850489227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_11
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c460c479b44d7499b96c3cebfc95b2
+      internalID: 227310745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_12
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75971c377db631540bdd501ae8e38cf4
+      internalID: 1939627266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_13
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68534ff3ba41b8545908ac344afd9daa
+      internalID: -1580781824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_14
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d342c8103a769146af04f0a00a77f8d
+      internalID: 731801295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_15
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc998339ed86ade4ab52e7cbfc1fe575
+      internalID: 62734703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_16
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5586915a123a3c4c96d6ee1d433314c
+      internalID: -594900904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_17
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3cb517332b81499ae3c310aa64762
+      internalID: 480611986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_18
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3675
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0df408706a72498248c440e6a544d
+      internalID: -189561276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36926ae60d9dea0429e12e3c330e872f
+      internalID: -1523605866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be4f339ef4aa743acc7cf350145b34
+      internalID: -451867891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b80280570165d94db1bfe473d9ca8bc
+      internalID: -1659898552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52934fb151e3d54ab1b05dae725e45d
+      internalID: 1247716002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89834a6b1e5ba746893e13aaa486bfb
+      internalID: -841087562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad79504f0c30f124eb7adfe12de462cd
+      internalID: 396817878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_25
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23cf7a8786c2fc4c94baa19f598dc78
+      internalID: -1758638153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_26
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d81953ad2b14934ab09581e0e413106
+      internalID: 606469699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_27
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b1ca00d8155a459a3d47a86787e91
+      internalID: 1839298084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_28
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5125a636bc1e847a286bd7830e379e
+      internalID: -1894530318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_29
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8857460322c96e649832999fd7aa4a83
+      internalID: 967096242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_30
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e1c56cacb93f348922b706a257cdeb
+      internalID: 514527677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca667b583783db4ebb68c745a785e1f
+      internalID: 1665942970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_32
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1429e6d905fb94ba3c34f8dd4194a3
+      internalID: 78927914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_33
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9717150924422184eb87eab673b52397
+      internalID: -297276554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_34
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb213cf31000a74ca9bea0b8af935c7
+      internalID: -647344808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_35
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aa722d092b3874a918aa16a304df1d
+      internalID: -160412087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_36
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371821cc089be29448e19a09c5397d3e
+      internalID: 435495167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_37
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3500
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6997027a89e2a4b8c9abeba5dc9262
+      internalID: -1648167688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b06fd89818dc34bac28347aa7a1162
+      internalID: 326125353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f02c087ecbb794999d48ccf7616387
+      internalID: -1598119097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1fa30e879514a4a98ec8a45191213a
+      internalID: 1770908526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_41
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c7af26f28621048a043ee1b59622f0
+      internalID: 1803202048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c154e98eb40256d438ba834acea127cd
+      internalID: 1803275636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_43
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a227032904a934e927bfd6c3bacae9
+      internalID: -1645512394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_44
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3e059529c5a74887929d70b677ad5
+      internalID: 600455909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_45
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060850d1167c4eb4988f26442830dd17
+      internalID: 1046848566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_46
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36187d6fd2be8c4582b7b4945f5d102
+      internalID: -308649103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_47
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1618eeaf31d1f459c18ac8bdf4a1d3
+      internalID: -965632376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_48
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e60e9650786e40b1a928bf51f40f5
+      internalID: 1470521082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_49
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca0a8ee18437fa40a172e7c42362cfa
+      internalID: -360403819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_50
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36414e561b434d4f97146cefc46265b
+      internalID: -955112179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_51
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c557844c68b11ff49aad2f33072574c2
+      internalID: 1996245247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_52
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e236eccf3846fc4db3b80534da59cc7
+      internalID: -1321607190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_53
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d54e8ab3a0fde43b4aab31a6f71cb6
+      internalID: -1297967258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_54
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f8f359e35584418a80d7c8d5b8512
+      internalID: -708307756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_55
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ba77fcea4e874db81a690463d5d33
+      internalID: -2123414232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_56
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3325
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa8db17d1b29c40bb7d4f9c31dfd89
+      internalID: 897727366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346bb226d1a75c48ab30b919eb91553
+      internalID: 1500465745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf58896043d3074dbb8c529384e0ebf
+      internalID: 1205108917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_59
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f28a249786f34b9f16d4667044849
+      internalID: 460082308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_60
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582711d9f8224274689c9a975d5c7cd2
+      internalID: 1180322277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf166cad5bc22478e71830724a7011
+      internalID: -1600482117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_62
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212e09cd8caf054cbc4cc8cfe128da9
+      internalID: 868599990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_63
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cfa7f23370df943aa1b2ff9ac8db84
+      internalID: 587413117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_64
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1825d32fd2e16a41bec71d52d058acf
+      internalID: -1345628612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_65
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e917509835d1084c87ec99a500d718e
+      internalID: -1200928651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_66
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ce16639c117e42b837dcf95fbaaa4
+      internalID: -738653487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_67
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0c7be3173da347af169f975be3779
+      internalID: -278768596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_68
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac4580ada98af4eab66b434a3a2481
+      internalID: 1375851695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_69
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3498af7f96512ae41a25d2e923ef1231
+      internalID: 2138943257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_70
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc27f2d0a9c4547a78e96930511b3e
+      internalID: 699897418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_71
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae05895c415d1843ba75b6ccc78d2bc
+      internalID: -570906929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_72
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5afb5c98a02640a0284e25a4c48b0
+      internalID: -1162476364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_73
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8edeb7f331a704f9e60105896b29bd
+      internalID: 1795721630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_74
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387d894b693c88b43a39826e72c17c46
+      internalID: 49853537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_75
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3150
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2609a475b82b8b542924b330f6905935
+      internalID: 560128012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef8a85b93c82d045a54a6923e199fdc
+      internalID: -1596973971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_77
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6f90597bd04794d81d422f58bbb0cd
+      internalID: -1827954915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_78
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d0bf55c7ae76b45b7cb5a0578326dc
+      internalID: 895074348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_79
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884a545c325e0149b5bb64be2fa5dcf
+      internalID: -1135151526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce3ca3314ed5549a407a627488c48b
+      internalID: 932632543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_81
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f702cc58c3b3145917a438a037f536
+      internalID: 1666901191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_82
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b0d41537f3934ab389d0f2e5775c4
+      internalID: 1496743161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_83
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b794a218e173a448e1fedf44157172
+      internalID: 2101305776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_84
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c53fc9ab96c9349bf245d4909a51b3
+      internalID: -1603577724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_85
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2bba6b0ee19643a974b8370d3112e
+      internalID: -235167399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_86
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aa20b2de2bec845ad0f41a56b5860a
+      internalID: -1825851372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_87
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc37f5dd24864e4a855f62cbe671803
+      internalID: -1478320308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_88
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37901ccacb17632429ad1fa87559defa
+      internalID: 1060523278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_89
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5440aada1810b409253008f6aaf8fe
+      internalID: -492061560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_90
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0683a932415d3f14d8f9749d1b53a648
+      internalID: 368450788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_91
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6581e8c502704681f0caa851e6630
+      internalID: 1357742158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_92
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bade088ba8dd3040b4e7fea0a71b7da
+      internalID: 1385938009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_93
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fd847022350b4a955e6b34c0160de
+      internalID: -667789507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_94
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2975
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75b777d773f73145b16bb732e6cf7e5
+      internalID: -703357242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482de09b491fb3a4c890574a27473f7c
+      internalID: -2107575986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_96
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee59ecb74ab0649957e7c76534f627
+      internalID: -914460730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_97
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304780f957432b24e8931bad4c5c6b0f
+      internalID: -2127095280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_98
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e9d91dd77797749b63b7d7ca85909b
+      internalID: -1295578275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_99
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03465b3133c93a847b36e5630ff7eef1
+      internalID: 176507360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_100
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f1553d0bdd8a468af3a28763da193
+      internalID: 627188769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_101
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a862378cb649c646a147aea476f3846
+      internalID: 89927350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_102
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035818eec37521a4d8d5189b593531d9
+      internalID: -1878713848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_103
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25094bec3f3ef8b4d9686d82b2f082e8
+      internalID: 1811064851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_104
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92a39075d1d8194eb0596ded0d645f0
+      internalID: -919159785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_105
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f877b407d7d348972fe14e31c9f0f
+      internalID: -1080294289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_106
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7bc19a1de5c84aac5430fa19933f4
+      internalID: -242550908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_107
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c4993f806cac4ea3b03bf355e51f7
+      internalID: 1246182103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_108
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0e702eec7c20458be3dbc3bec332d
+      internalID: 1846105119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_109
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d164d1d2fd9cb409600f7f1af4957e
+      internalID: -1236244732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_110
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceacdc413b1cb44fbf421603195001b
+      internalID: -328099295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_111
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b9da0a8fcbfb24cbce316d8070d06c
+      internalID: 286327126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_112
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8837dd32c556945a3dea587374c77f
+      internalID: -1408498698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_113
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2800
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e6cf47498bb841b6e45f06a1d70ec
+      internalID: -371647121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8630dc3b1b2653419e0eab73f3e8f0c
+      internalID: 949584482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa0177be60eb9d4eada5b77a607db8a
+      internalID: 170643073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_116
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d09dd328bcad41b292b416a17dc9d
+      internalID: 1875354501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_117
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a0a5fc3adb9343944f504b023613a
+      internalID: -1306133618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_118
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60751995451a53446b9bd260f7c23d68
+      internalID: -1491890709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_119
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e928d8ac493044817cfa5e633ed3b
+      internalID: -1900810584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_120
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1cffc423b6028439f4c4622c961141
+      internalID: 1211984455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_121
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d008e6c5b1bc4d84eda8045a09c65
+      internalID: -1932420175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_122
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2625
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e9d277178931f49b5ec93d19e1eda7
+      internalID: -190068843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57ce6919714af4da66898bdedeb165
+      internalID: 1675641423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_124
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c424b1f9207648c4489743383f740df8
+      internalID: -1899219415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_125
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f56a2b30edfde4489314dca9ac7853
+      internalID: 1842370693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_126
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbce521eeb81a249b7c80731a2f9f75
+      internalID: -57496880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_127
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0663cd5dcee27429da35bd11a9dc7f
+      internalID: -1262220990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_128
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c9c9d3cf7406345a90c95d020cd341
+      internalID: -520070281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_129
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c629a9b5dea74ca9bc7ae12e7f048
+      internalID: -524503845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e9f3fa8ef6454285ba99f9104dccf
+      internalID: 258543011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_131
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0218153051a1a246924cc8f6c7ce8fd
+      internalID: -1636804322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0be869b2302ff43a7879410d858ca4
+      internalID: -1532831516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_133
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae9b197c6266a24ea72706d716da32e
+      internalID: -450258449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_134
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70991c765a99aa3499980f7180baf552
+      internalID: -874235781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_135
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3b378be2986a45bb88184944a71ea
+      internalID: 731920591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735660d01968c464b8d3439ebc954e48
+      internalID: 101972366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_137
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdd9d2ce0422f49b60d42f840627f3
+      internalID: -1418054789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_138
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d0423fdb56c94e98f579320ad0c83
+      internalID: -1110264391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_139
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68984f4379c2de4dbb8e975372e8c7f
+      internalID: 1927368085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_140
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690436127f7981146bd577d248a9c62c
+      internalID: 987175683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41920958193830543ada9647bdf74fb5
+      internalID: -1155344175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_142
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c7ddea37b6e04cbf0437ea6dcd74b
+      internalID: -1879991175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_143
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa48e64933b88e4a9e50f716378b5ff
+      internalID: 1091137547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_144
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eca0e2d1f2fc144bbc199afe7bde14
+      internalID: 1522363945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_145
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade8fab6907d7a468d06fa009cfcc9c
+      internalID: -1500255171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2926b3ed4d4f2ab46a6fe1b394e1c329
+      internalID: 1113122377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_147
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea5b7be5ecdb64691f2f6b77a37ee4
+      internalID: -1035655499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_148
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aacba5baf58ee4bb16bfbec9af65f2
+      internalID: 588747605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_149
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec1213504250434abd324bd8f907239
+      internalID: 1604270456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_150
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e41712aed29f479d514d21704fb46
+      internalID: -177190776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b8830ba7112d249a9e19b8dfec138e
+      internalID: -308673550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_152
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf7f98f1c2ad74ab6df015fe96bef3
+      internalID: 1756971911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_153
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c8200bcfa01c047b617b9d8b44b6e2
+      internalID: 1876130075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_154
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6a48dae5aa1e7449cae9dc7fdddd48
+      internalID: -1247873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_155
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5caeeb2c94c88b41a8e479c2423df1d
+      internalID: 1325306882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_156
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce20dd9eae80c4289a6ee98d418198
+      internalID: -2068869738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4907ef5c0f51e543a29c0316ea62cc2
+      internalID: -1777313028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_158
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a129aab08f964484fe0cf59c553a9
+      internalID: -1063514739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_159
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c4e65cc5db93c45824be25ce55cd9e
+      internalID: 671891935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_160
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad2a4ff42ef33449762376548bb6d1
+      internalID: 38771157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_161
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa80f22353f550a4389e9d83618ce2e3
+      internalID: 1041847198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_162
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ac92ea608b954ead63878256d6c56
+      internalID: -2102870880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043fdeb8481885847aaadfe424569bd4
+      internalID: -271822347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_164
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b55ded7d5fd4b4691e574dc9123e36
+      internalID: -1782864863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_165
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8635398791f7f8c48a8257ce3b4c604a
+      internalID: -775281022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_166
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd45859ac4a980488aea449eead22b5
+      internalID: 1361234855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_167
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f628f9227ef4264e83ee148cb8c9f1d
+      internalID: 1081929452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dba1f66fcdb054ba54017335bb2232
+      internalID: 109269523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_169
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aecf7b88da74e40807486868261350
+      internalID: -125203232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_170
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa996c94ee1db1488e13e8fda33cba0
+      internalID: -1409458190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_171
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56786e6116c073e4392717bae6c3e1ce
+      internalID: -1134170407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd7c49a04461b4ba2508d1e9b16d1c
+      internalID: -1344948085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_173
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 875
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd00dd6ba77104e9921069ce5539d2
+      internalID: 1743715417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_174
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 875
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9594b3343a1ea2e438af46ebf34f7f89
+      internalID: -1562903370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_175
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 875
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ca472e9dab75946b679193678040e9
+      internalID: 1978394552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8de0de24d68b2147bd54ef0e86125b7
+      internalID: 356280290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_177
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 700
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c7f5630a798a74d8638aeab43c2ce4
+      internalID: 1753338001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_178
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 700
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c2e843db7a71479725afb7e29ba65
+      internalID: -326614766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067eff1ecb6081346a8db0bd499fbf27
+      internalID: 752719638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_180
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 525
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f545ea35ea1bcb0428eebc9a5cf4fd50
+      internalID: 117343322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_181
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 525
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f421245e9abd409d0e4a21e57e35d
+      internalID: 387400906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce40e89ea45714b8d202982bc635c4
+      internalID: -171365437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_183
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304f9197fc132b4286202644be616ee
+      internalID: -3954043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_184
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 350
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99430019746a04245a7e38845ea45a1a
+      internalID: -811501610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a72cb6e0f9b326429053e325ddcb192
+      internalID: -1973608879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_186
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3baeaa0950260f4c84657b17eb9b114
+      internalID: 1471493342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_187
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 175
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806b002d40d0d046be2a0bcacdfdbb3
+      internalID: 2052123711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_188
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 175
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2be29be4354042accf20c28c40968
+      internalID: -1258487381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc6ec4cd2ef244282954892f4d0d8f
+      internalID: 1745763588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_190
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7387cd2fa81fa894b8bfbfb912e7d958
+      internalID: 1517179183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_191
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09daad5912a53f419b103be8fd8ff9e
+      internalID: 134814523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_192
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1068e9de0f2cc4b9a0bb106aed5590
+      internalID: -472942358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_193
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7057f32a2c378134d8687b9cd67cc732
+      internalID: 1701253317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_194
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f97367c90b2834e86bb72e1e2f78a9
+      internalID: 341851867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_195
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838b430dd5d9c26479823920e9fb18e7
+      internalID: -1022391488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_196
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8313090001b5b24690fb529662da215
+      internalID: -40275529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_197
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95554cc8592c66d4fb81d758c66a554c
+      internalID: -1224288049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_198
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012cff61f3ccf65439ba20236c3fcbc9
+      internalID: -637889866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_199
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491956fb1d08cf94986ba027b40f6ae1
+      internalID: 2064811827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_200
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a73a1d77d39ff4aa20ac17dcc28835
+      internalID: -186253298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_201
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d60f67bcca79147a8a4ae042e85b97
+      internalID: -2083815154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_202
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728a7524e4c865449f76dedc3697ed0
+      internalID: -898261506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_203
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6787f0b4332d24c9fea3772e722983
+      internalID: -911024705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_204
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50ec3d14aa67842ba265c23989b91a
+      internalID: -1444988397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_205
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5c9cea8bec364abd449e032883502
+      internalID: 1151351068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_206
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2816d8f508c9d24b813d38724de5fdb
+      internalID: -1024377053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balete-Cliff_207
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a1c1796dcd19745890d47ce3113a73
+      internalID: 1039794358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Balete-Cliff_149: 1604270456
+      Balete-Cliff_192: -472942358
+      Balete-Cliff_8: -352906327
+      Balete-Cliff_22: 1247716002
+      Balete-Cliff_168: 109269523
+      Balete-Cliff_173: 1743715417
+      Balete-Cliff_176: 356280290
+      Balete-Cliff_6: 1889582620
+      Balete-Cliff_9: -478151447
+      Balete-Cliff_56: 897727366
+      Balete-Cliff_189: 1745763588
+      Balete-Cliff_88: 1060523278
+      Balete-Cliff_19: -1523605866
+      Balete-Cliff_3: -652839547
+      Balete-Cliff_26: 606469699
+      Balete-Cliff_80: 932632543
+      Balete-Cliff_31: 1665942970
+      Balete-Cliff_146: 1113122377
+      Balete-Cliff_200: -186253298
+      Balete-Cliff_177: 1753338001
+      Balete-Cliff_183: -3954043
+      Balete-Cliff_147: -1035655499
+      Balete-Cliff_7: 1169130470
+      Balete-Cliff_34: -647344808
+      Balete-Cliff_182: -171365437
+      Balete-Cliff_23: -841087562
+      Balete-Cliff_125: 1842370693
+      Balete-Cliff_164: -1782864863
+      Balete-Cliff_57: 1500465745
+      Balete-Cliff_128: -520070281
+      Balete-Cliff_68: 1375851695
+      Balete-Cliff_70: 699897418
+      Balete-Cliff_43: -1645512394
+      Balete-Cliff_202: -898261506
+      Balete-Cliff_98: -1295578275
+      Balete-Cliff_126: -57496880
+      Balete-Cliff_93: -667789507
+      Balete-Cliff_108: 1846105119
+      Balete-Cliff_4: -1303730609
+      Balete-Cliff_14: 731801295
+      Balete-Cliff_36: 435495167
+      Balete-Cliff_190: 1517179183
+      Balete-Cliff_116: 1875354501
+      Balete-Cliff_95: -2107575986
+      Balete-Cliff_175: 1978394552
+      Balete-Cliff_18: -189561276
+      Balete-Cliff_55: -2123414232
+      Balete-Cliff_199: 2064811827
+      Balete-Cliff_52: -1321607190
+      Balete-Cliff_51: 1996245247
+      Balete-Cliff_153: 1876130075
+      Balete-Cliff_65: -1200928651
+      Balete-Cliff_21: -1659898552
+      Balete-Cliff_89: -492061560
+      Balete-Cliff_0: -2143207383
+      Balete-Cliff_69: 2138943257
+      Balete-Cliff_205: 1151351068
+      Balete-Cliff_81: 1666901191
+      Balete-Cliff_115: 170643073
+      Balete-Cliff_62: 868599990
+      Balete-Cliff_96: -914460730
+      Balete-Cliff_106: -242550908
+      Balete-Cliff_143: 1091137547
+      Balete-Cliff_193: 1701253317
+      Balete-Cliff_13: -1580781824
+      Balete-Cliff_47: -965632376
+      Balete-Cliff_132: -1532831516
+      Balete-Cliff_197: -1224288049
+      Balete-Cliff_165: -775281022
+      Balete-Cliff_67: -278768596
+      Balete-Cliff_58: 1205108917
+      Balete-Cliff_101: 89927350
+      Balete-Cliff_160: 38771157
+      Balete-Cliff_30: 514527677
+      Balete-Cliff_59: 460082308
+      Balete-Cliff_195: -1022391488
+      Balete-Cliff_113: -371647121
+      Balete-Cliff_142: -1879991175
+      Balete-Cliff_186: 1471493342
+      Balete-Cliff_100: 627188769
+      Balete-Cliff_84: -1603577724
+      Balete-Cliff_103: 1811064851
+      Balete-Cliff_172: -1344948085
+      Balete-Cliff_78: 895074348
+      Balete-Cliff_141: -1155344175
+      Balete-Cliff_138: -1110264391
+      Balete-Cliff_77: -1827954915
+      Balete-Cliff_179: 752719638
+      Balete-Cliff_72: -1162476364
+      Balete-Cliff_28: -1894530318
+      Balete-Cliff_40: 1770908526
+      Balete-Cliff_120: 1211984455
+      Balete-Cliff_15: 62734703
+      Balete-Cliff_83: 2101305776
+      Balete-Cliff_20: -451867891
+      Balete-Cliff_45: 1046848566
+      Balete-Cliff_54: -708307756
+      Balete-Cliff_17: 480611986
+      Balete-Cliff_123: 1675641423
+      Balete-Cliff_139: 1927368085
+      Balete-Cliff_166: 1361234855
+      Balete-Cliff_206: -1024377053
+      Balete-Cliff_196: -40275529
+      Balete-Cliff_24: 396817878
+      Balete-Cliff_42: 1803275636
+      Balete-Cliff_124: -1899219415
+      Balete-Cliff_82: 1496743161
+      Balete-Cliff_99: 176507360
+      Balete-Cliff_50: -955112179
+      Balete-Cliff_203: -911024705
+      Balete-Cliff_75: 560128012
+      Balete-Cliff_46: -308649103
+      Balete-Cliff_48: 1470521082
+      Balete-Cliff_152: 1756971911
+      Balete-Cliff_161: 1041847198
+      Balete-Cliff_191: 134814523
+      Balete-Cliff_129: -524503845
+      Balete-Cliff_61: -1600482117
+      Balete-Cliff_185: -1973608879
+      Balete-Cliff_66: -738653487
+      Balete-Cliff_37: -1648167688
+      Balete-Cliff_104: -919159785
+      Balete-Cliff_91: 1357742158
+      Balete-Cliff_121: -1932420175
+      Balete-Cliff_174: -1562903370
+      Balete-Cliff_86: -1825851372
+      Balete-Cliff_198: -637889866
+      Balete-Cliff_35: -160412087
+      Balete-Cliff_159: 671891935
+      Balete-Cliff_16: -594900904
+      Balete-Cliff_29: 967096242
+      Balete-Cliff_39: -1598119097
+      Balete-Cliff_181: 387400906
+      Balete-Cliff_184: -811501610
+      Balete-Cliff_156: -2068869738
+      Balete-Cliff_33: -297276554
+      Balete-Cliff_41: 1803202048
+      Balete-Cliff_10: 850489227
+      Balete-Cliff_97: -2127095280
+      Balete-Cliff_140: 987175683
+      Balete-Cliff_71: -570906929
+      Balete-Cliff_60: 1180322277
+      Balete-Cliff_87: -1478320308
+      Balete-Cliff_133: -450258449
+      Balete-Cliff_135: 731920591
+      Balete-Cliff_76: -1596973971
+      Balete-Cliff_180: 117343322
+      Balete-Cliff_25: -1758638153
+      Balete-Cliff_92: 1385938009
+      Balete-Cliff_169: -125203232
+      Balete-Cliff_117: -1306133618
+      Balete-Cliff_155: 1325306882
+      Balete-Cliff_105: -1080294289
+      Balete-Cliff_131: -1636804322
+      Balete-Cliff_44: 600455909
+      Balete-Cliff_85: -235167399
+      Balete-Cliff_5: -1398294015
+      Balete-Cliff_130: 258543011
+      Balete-Cliff_188: -1258487381
+      Balete-Cliff_32: 78927914
+      Balete-Cliff_148: 588747605
+      Balete-Cliff_137: -1418054789
+      Balete-Cliff_171: -1134170407
+      Balete-Cliff_79: -1135151526
+      Balete-Cliff_119: -1900810584
+      Balete-Cliff_145: -1500255171
+      Balete-Cliff_170: -1409458190
+      Balete-Cliff_12: 1939627266
+      Balete-Cliff_63: 587413117
+      Balete-Cliff_178: -326614766
+      Balete-Cliff_187: 2052123711
+      Balete-Cliff_49: -360403819
+      Balete-Cliff_107: 1246182103
+      Balete-Cliff_74: 49853537
+      Balete-Cliff_144: 1522363945
+      Balete-Cliff_38: 326125353
+      Balete-Cliff_64: -1345628612
+      Balete-Cliff_114: 949584482
+      Balete-Cliff_118: -1491890709
+      Balete-Cliff_112: -1408498698
+      Balete-Cliff_163: -271822347
+      Balete-Cliff_207: 1039794358
+      Balete-Cliff_167: 1081929452
+      Balete-Cliff_162: -2102870880
+      Balete-Cliff_110: -328099295
+      Balete-Cliff_204: -1444988397
+      Balete-Cliff_94: -703357242
+      Balete-Cliff_1: -723767410
+      Balete-Cliff_201: -2083815154
+      Balete-Cliff_158: -1063514739
+      Balete-Cliff_109: -1236244732
+      Balete-Cliff_151: -308673550
+      Balete-Cliff_111: 286327126
+      Balete-Cliff_90: 368450788
+      Balete-Cliff_157: -1777313028
+      Balete-Cliff_27: 1839298084
+      Balete-Cliff_2: 1290317668
+      Balete-Cliff_150: -177190776
+      Balete-Cliff_53: -1297967258
+      Balete-Cliff_122: -190068843
+      Balete-Cliff_194: 341851867
+      Balete-Cliff_127: -1262220990
+      Balete-Cliff_102: -1878713848
+      Balete-Cliff_134: -874235781
+      Balete-Cliff_136: 101972366
+      Balete-Cliff_73: 1795721630
+      Balete-Cliff_11: 227310745
+      Balete-Cliff_154: -1247873
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4699 @@
+fileFormatVersion: 2
+guid: 921e9d67f2d4d8f4d8b7035830e4cdd5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balette three_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb07be2640e4440acfa3b202a04976
+      internalID: -2036479045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c13280cc78e544a9f47767d47e2b96
+      internalID: -505588692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cdc9db9a88ff948803aed43b8d1411
+      internalID: -504398590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccad41ab9b034a45a5e4f03714f9bd9
+      internalID: 358042420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_4
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c9b88e7b60bc3409dad5e1f2d6b115
+      internalID: -199497305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ee00f8f6ec7e459318a59422c99d5
+      internalID: 1066099417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_6
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ed50da86fa1144971e3dacb5b5aa9
+      internalID: 406177757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_7
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2825
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9897882afa717614ea23a5f20a8b11e2
+      internalID: 1793756460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf542e7154814a4cbe1a9eda99a038e
+      internalID: -840523650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db04b706a9178241836d0cf0c63bb82
+      internalID: 1141629567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0cc24b58b78c408b090fe66f24c61
+      internalID: 455737485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b77d4920ad04459d574ded2b0653a
+      internalID: 2020381346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_12
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e5d3b0879f5c438b5101f162888c3
+      internalID: 1072183635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_13
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c23c7179ab474eb3e6119584d68a2
+      internalID: 966563458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49e473504ae814f923c04cbe5e5ec6
+      internalID: -501002810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_15
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df3fc8182354045ae390c3eff28406
+      internalID: -543846922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_16
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a275aa68bf4839489fe170b83dd12e3
+      internalID: 1004298992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_17
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e930e6f008dbf64d8487fda23cc37ef
+      internalID: -176875144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_18
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2650
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6fd9a8d52eb8141ab4027843fdc94b
+      internalID: -1546809418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e66e0e40d8ab9c4da342a0f8241bfa9
+      internalID: -166901256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d293ebe59eb134f879148f7ca20a86
+      internalID: 1202392090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eb9e024038e7a4bb3615716ac23a49
+      internalID: 1998624990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015dd463118921b42a8fa1e464fa6224
+      internalID: 1750724069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0a94cacbca8e47836a8a5ee95b411
+      internalID: 709298044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_24
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b330c445996f4418d7076cf5dcf163
+      internalID: 1993613174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_25
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4412b4c1432242aab969b051d9525
+      internalID: 1680459505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de00d4d7fd4ee4a8194f119a3c77aa
+      internalID: -1459473851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_27
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c35f80110fc345b1920d833f26427
+      internalID: -1068476470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_28
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb690d8ba88dc74180a875d4a3234e2
+      internalID: -335849422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_29
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee29044cd13d1746a3363733eb6db2f
+      internalID: -1061029183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_30
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a557a69bec6e2e84a95028c045817c08
+      internalID: 50687210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_31
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342a000f755a9744a9e9b7fb5a90b28
+      internalID: 1401602173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_32
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c29cb2209427ea4f90327368274ef85
+      internalID: -665703663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_33
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2475
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e519c8bd172209240a6f5cbf7ec96860
+      internalID: 116567560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a05a28a962463e40bad0eaecc9a970e
+      internalID: -652223308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c65cb7d347cea438929fcfdf8f8541
+      internalID: -962983393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_36
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf117d47860ff904cb74f05bbe59d913
+      internalID: 2111267875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936b0a32e2601d42913a7705271614f
+      internalID: 1643638891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb93bee04bd02344bfe74d5e52a6a90
+      internalID: 1003565007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_39
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d327b6a154c11645a54a101eeb199c1
+      internalID: 1435608350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_40
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e47f4373f8964ca975793482499eb
+      internalID: 1644233991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_41
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2e95e9c2a590f46b623d5f8b12cb0d
+      internalID: 495718347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_42
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742e922a7883c948b329f3506b65fd6
+      internalID: -510669731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_43
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51acf719de9d5464e9a0d3079fda4ba8
+      internalID: -722511021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_44
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a45cd8a72c0fca4d96ca4e385dc9116
+      internalID: 1959977509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03c94c7b00079e4d9f359d8e5fd6db2
+      internalID: -300553141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_46
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b74f0aa4b4254ea783d975c34c6b0
+      internalID: -841485938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_47
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa06f95ea09eb4c4195d7f49ce6d75d7
+      internalID: -1448928104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_48
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528e09cd7c4f584f821a2b98011c3db
+      internalID: 1657984823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_49
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2300
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291a41822da72d4f979e0a52d7bed8f
+      internalID: 1311158847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebfc6af98fa90e4e956c142329efded
+      internalID: -468619093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143ccb655aae62488e558f11675ae5c
+      internalID: -1221509656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_52
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b119259b77a043a5aa6519d12c94e
+      internalID: 1971210720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_53
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bbf5c98bcb7b54e98f49b7a993d332
+      internalID: -113342918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_54
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141a84b087b22d04f8d4fede6a34accd
+      internalID: -1563936640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292b13f3001db6a40bb9c16a5873c3e1
+      internalID: 2123858991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_56
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed937f87755d643b59eae8e380e7fc
+      internalID: 408936106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_57
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79894befc7510194b9c323a82f6ca155
+      internalID: -2132447166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_58
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5224bd4021d7e4f4cb1dd7c331f683ad
+      internalID: -1149673860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_59
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b62195dbc3d743af35b93249a8ce0
+      internalID: 1937110094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_60
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d40ccaa055afc489d820c15edb1220
+      internalID: 829908870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_61
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785ad595ffc5a3844b4c9d9f5e2a2c5e
+      internalID: 968968581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_62
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813b6eff0cb580640bc975ba338f0593
+      internalID: -755416773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_63
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749f4cc17edfde48b289dc3120adc6a
+      internalID: -1165096078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_64
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e59482906eb8fe4191a64c57236293a
+      internalID: -1450702197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_65
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2125
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f5483a7f14ba47a53ee43722e7fea
+      internalID: -108181753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_66
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c345e7756f216f4d819bc4981fec06b
+      internalID: -690856308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9820fccb95b528a4e910928dc7159eee
+      internalID: 2054491718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_68
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b07136cd256344bb17b45fdaeeebc
+      internalID: -1558662128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_69
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad724132bbd04f140b8c5b388164ea08
+      internalID: -721226759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_70
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4560e2baaed824408cfdf832a5e4fdc
+      internalID: -928724685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_71
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0fd7888c4e63f4783aa39e9ff2dc87
+      internalID: 792271896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_72
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb01d4de7634e488bb1e04e1df3e0e
+      internalID: 580868392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_73
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891d898b23656447853f13eef8ad4de
+      internalID: 1881012447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_74
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd59a9ff48ce5fc4a8fe82af6c57d460
+      internalID: 1501577905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_75
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ff0054b2107f439fc999fa8774994
+      internalID: -1531078815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_76
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65f86810fae5124c8c661dce239c859
+      internalID: -979217132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_77
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c07fc0062ef114084e5f0cefd02b0a
+      internalID: 1552809403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_78
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f2b4e4496478047830be9e54761a11
+      internalID: -1643329891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_79
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded288f0294018045b63bb1a076e3a03
+      internalID: -1957778158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_80
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c43969b185c84e9eda2f4fbc81da0
+      internalID: -1442631538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_81
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1950
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0486bf838f2e34c9378591d208bde7
+      internalID: -1802986616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0768dbc7fb3d9f4eb68c37c2fca0486
+      internalID: 1568329500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_83
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166075447e09677459c51c169acad247
+      internalID: 218444930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_84
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e30560ed378a54c9436becb9ff2028
+      internalID: 1898191433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3268aef44f7fb694695cda21e7c39615
+      internalID: 396339955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_86
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a179382794ca54e8c81f6c4984bcf3
+      internalID: 1186604483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_87
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee997eab7fdff74da9c04a2c75a1632
+      internalID: 1731835312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_88
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1afe371ac2b3014fa96bf08e1f262f9
+      internalID: 2030265144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_89
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ed27c7de8c164994659d6ca70469a
+      internalID: -1544564604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_90
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869edfd106ce79429bdfd59738fd366
+      internalID: -834688311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_91
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03cc56234b450243a5684599546de70
+      internalID: 1216815731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_92
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f9d05303b41c43b455b615b1dc246
+      internalID: -1428325048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_93
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b21f2540d5141448aa5e318899b23e
+      internalID: -497759203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_94
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f40e9afd4854d4793ce20a00565595
+      internalID: -863689705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_95
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946a7d5503fd6744a942fe08dbfc5a3
+      internalID: -779921715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_96
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3442330432d604cb647097e3f856e3
+      internalID: 1714786296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_97
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1775
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8bf94f2ab005242be34d8bdc74d429
+      internalID: 1178505695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0397f8df7cb204c4d9447dd3179e1647
+      internalID: -879411921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_99
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1600
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949775db8c607a947a6a8ac9ed34f349
+      internalID: 1588210744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_100
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1600
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9308204e19526b0409cac42e4bc27ed3
+      internalID: -1122876976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_101
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1600
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010657e7f9c4aff45a5c8ebc73f390b8
+      internalID: 193881817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_102
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1600
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73ec877e396a641b5e6d8c82a28425
+      internalID: 1728195021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_103
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1600
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62cec8468d3934cbec5efebfc22a5c
+      internalID: -274649133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_104
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1600
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ced7eda4b2674b9034db1186322c7
+      internalID: 1502451641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55667ca371d08114f93f6c97588eb565
+      internalID: -1610984360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_106
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa35ba23beb0824dbc3c7f750356033
+      internalID: 132160548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_107
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e93eba39a374149ac22a4fb3bc9e8c
+      internalID: -1190199714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_108
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edffbb2d8a74de4c8c56ece75d7be72
+      internalID: 1320487723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_109
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0280f195e686428d94f1228d56fda
+      internalID: -279386015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_110
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cb6c925c88ca04a8368cfc95a2c53d
+      internalID: -143681189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_111
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669e7adc8deade44ba61dc7376890e7
+      internalID: 1013358454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_112
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c5a1d40fc70ab44a2c7fe4d37a5855
+      internalID: -96158274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_113
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80433b86c151084ba889d995c7e427e
+      internalID: 2032694439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_114
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1425
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc88200f20edb4596b1b15849e0769
+      internalID: -76406914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b5ae95131a1440b783e4aaecfc6d9
+      internalID: 1716255852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_116
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67044e700bcd5824da38663419b5fb84
+      internalID: -1517352562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_117
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e1bfd2745f6e4d82722baae1dd0f6
+      internalID: -884067881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_118
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ddb7eba9866e45a0159b0c94838c2
+      internalID: 592671266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_119
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cef39b0dd6e5f42bb783fee8ce11bd
+      internalID: -302203351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_120
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43786139b37cd2e47b647a495ca4e3cf
+      internalID: -1450209007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_121
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f27b204b7b00c49b222bea0ecd9968
+      internalID: 427327546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_122
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22effa312519a34cbb000e8b077c871
+      internalID: 1434910473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_123
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de393baa5e79b3440a1840158d25dfec
+      internalID: -2071452428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_124
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1250
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad4551319746142a472cad6f143eae
+      internalID: 1504250608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c299e45973f24999539eba824e342
+      internalID: 448120784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_126
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d0729e045e0c54b84c27d3d104923a
+      internalID: -176619275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_127
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7375ee60b4778441b0de859597759e8
+      internalID: 1071505078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_128
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b23a9dd22a4345ad5725f0179dc66
+      internalID: -1190032646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_129
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6901c72aec1286f43b79a84e4b734e15
+      internalID: -40473229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_130
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea109a1e57d7cf043bd084d82cf47973
+      internalID: 1576528422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_131
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f1a4a5c02d854da89039727a79874
+      internalID: -1539863317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_132
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206de51cacd36cd41bf96027ae7bb948
+      internalID: -745846841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_133
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065014eafff6d7347b138a5e33e299bd
+      internalID: -1787208857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_134
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f01f1747f5a9db4fba3e907363b08f0
+      internalID: -1346809587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_135
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b65d10042ebae4a9076deac840e53b
+      internalID: 1105391054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_136
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0218d198aba440b9fb0e91a714f66
+      internalID: 367083774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_137
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1075
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed4adb6f1aacb8489c6de159ff61ad6
+      internalID: 645779295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e097e96b0a6584fb720f40d29a17cd
+      internalID: 866390355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2cd8a6d2b9aeb48a42edb4e6a01d9f
+      internalID: -1823385889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc85d8ada025fd4a8a841476fc0d0e6
+      internalID: 59854515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdbda61d327e4c4082a7f56242bdfb0
+      internalID: -274329971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_142
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10a3de153d71d4dbbf74e89a32ffd7
+      internalID: -857584432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_143
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7fd9406a9aa014a9c18d5c90c220b7
+      internalID: -1017942309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_144
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5de72e779428934cb493ebb31f29711
+      internalID: -1699132997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_145
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825d5856399a6f6498dd208cbe0ae88c
+      internalID: 44913205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_146
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81a9422d094844a925ed0fb8efd037
+      internalID: 476241433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_147
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7759325200834e9365181a4038d06
+      internalID: 308852526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_148
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c56569fe03e5478d0a3190420b097
+      internalID: -959884797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_149
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59da7fea70c4df4793b06771b27f4da
+      internalID: 961951247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_150
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab42b0638cd452c47b1c5b887766baac
+      internalID: 1916748790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_151
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 900
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd38fe2a956ae740a6b6f4a0565845b
+      internalID: -2098921979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e9fdf4ddea704e916e780d2557954
+      internalID: -2097244644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_153
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f14518379776c7448a66d7ee56949b9
+      internalID: 195369539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_154
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b09d2c701d234b84e4504cc811833
+      internalID: -216815451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_155
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d14dddf41ef01c41b441dbddcfd9f92
+      internalID: 1719079609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_156
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c8df35f8d2d040af73f38fb9cfde6
+      internalID: -1830254022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_157
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798dc38f7480e53478fa660032690ec8
+      internalID: 1746855196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_158
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9536afc372400424fa6c377c20001c27
+      internalID: 1925629843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_159
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38efd4f5026ac6429fa761b611c90e9
+      internalID: 369910611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_160
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845bec96c3518f41bf64d645315fda4
+      internalID: -897514875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_161
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2764dae3421845a04d629b54b38cb
+      internalID: 172793362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_162
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79939d0ef047dfe4fa3f1ae4c2073fce
+      internalID: -1008611437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_163
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526b35a5d6e72b4abba26c76be0287e
+      internalID: 811295380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_164
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 725
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22a2c7c1d0611348a956f1490ae7f72
+      internalID: 196519513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b3595581832e43b9886ca0b2f1603
+      internalID: -1346232921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_166
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c7184fd44d8b64faad44382292de88
+      internalID: -393371506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_167
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51579498506844546a8d37a04b7fb0fc
+      internalID: -705746162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_168
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e1875f52fbc56419dd2c9f01c15270
+      internalID: -2038441703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_169
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e73133177d6a46ae589cb249d0fd8
+      internalID: 2035648614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_170
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ccc7609eea92a4fb02201e9ba08320
+      internalID: -962820723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_171
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c04acafeef324c8c6cfecad717b70
+      internalID: 584315851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_172
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f3600ae30abd46a3bd24e315b63b5
+      internalID: -1936110883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_173
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138bafa50e475045bae759dd086f89d
+      internalID: -798892341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_174
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9dd1f965228548b891c3dfaaa85b6
+      internalID: 424507511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_175
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23da04b09b67ba4998b7a0f186cffee
+      internalID: 1361436323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_176
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a0f310afb14644f9be67af7cad15c8
+      internalID: 2131958725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_177
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 550
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e380a366bb83c2489931faa82caeb76
+      internalID: 870170022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300bd805d11f27346a1ca520df28ca33
+      internalID: -1451791815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_179
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5327d00af1738548ab4d37afd5f9753
+      internalID: -195226975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_180
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d4c386c9f300047b06e4fafc9e0c96
+      internalID: 1760688346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_181
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa3b7fcc04cba84cb14f23f367068d9
+      internalID: -1355029458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_182
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e77ce9230e3dd4fb317613ee787132
+      internalID: -58437071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_183
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843741894b77424b8164f9a74a5ff01
+      internalID: 926161472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_184
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4390f7b81ff184b80d37e882225583
+      internalID: 1216549947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_185
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a6702ba383f5649ba1bb971d9a6a80
+      internalID: 2043121588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_186
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040b1787a7b8b84f9fde945430c0b45
+      internalID: -1904950790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_187
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe7b30d0150864c8249f0dcaf2cd77
+      internalID: -768922483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_188
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ffeb024a5ebd48b94aafe7a45902f
+      internalID: 1880797427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_189
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79361726f7df5f040b7f8e362788ea07
+      internalID: 1691207446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_190
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77719d0f8509b14d84586a65ae4c59e
+      internalID: 2088961117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_191
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 375
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6789e0b160a94a9f5ecc17ddf8b3d
+      internalID: -158466121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_192
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f6d5cc50dc34449fbdf86c0e04df2
+      internalID: -889232484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_193
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780df175ffea0164791cdd9d7f1f087f
+      internalID: -187490416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_194
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cee47c579380f41b8e0048bd8b3f65
+      internalID: 1404410593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_195
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00649a19cdba85941b95d9d4d5cb601c
+      internalID: -1473566172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_196
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee55edea54a084993521838abc4a75
+      internalID: -1703861033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_197
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b15bf0be6814b4fa1cb8cc99cc80af
+      internalID: 2039234806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_198
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aa87c829c9c58448ba0a194da5e852
+      internalID: -1670371354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_199
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e94d1133b847fd43a2fbea08d960fe0
+      internalID: 1402380230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_200
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 200
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9449b63d637522a4aa9fdc83332016c4
+      internalID: -1187402470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_201
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 25
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f32cdc58649e3419609bc356992c34
+      internalID: -274839999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_202
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 25
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e533f95c58c84fbd1a9aa0fdac450
+      internalID: 449068549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_203
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 25
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ceeaa15f2bf0146baf471b4455e2c3
+      internalID: 1536178948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_204
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 25
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c5bcf6ed192b74ea0507b4cfb4702b
+      internalID: -1270823460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_205
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 25
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ed915fb93b54448f140d1f18f465c
+      internalID: 225006790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_206
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 25
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067423bdd6ecf44299351db65271dc6
+      internalID: 370377719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balette three_207
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 25
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0511582337cc44c8666d2b718cbb7c
+      internalID: -1596178545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      balette three_177: 870170022
+      balette three_40: 1644233991
+      balette three_34: -652223308
+      balette three_101: 193881817
+      balette three_78: -1643329891
+      balette three_88: 2030265144
+      balette three_49: 1311158847
+      balette three_2: -504398590
+      balette three_53: -113342918
+      balette three_148: -959884797
+      balette three_86: 1186604483
+      balette three_75: -1531078815
+      balette three_124: 1504250608
+      balette three_165: -1346232921
+      balette three_162: -1008611437
+      balette three_152: -2097244644
+      balette three_196: -1703861033
+      balette three_105: -1610984360
+      balette three_68: -1558662128
+      balette three_100: -1122876976
+      balette three_172: -1936110883
+      balette three_112: -96158274
+      balette three_19: -166901256
+      balette three_116: -1517352562
+      balette three_131: -1539863317
+      balette three_63: -1165096078
+      balette three_135: 1105391054
+      balette three_76: -979217132
+      balette three_167: -705746162
+      balette three_98: -879411921
+      balette three_132: -745846841
+      balette three_170: -962820723
+      balette three_90: -834688311
+      balette three_154: -216815451
+      balette three_191: -158466121
+      balette three_18: -1546809418
+      balette three_201: -274839999
+      balette three_144: -1699132997
+      balette three_99: 1588210744
+      balette three_0: -2036479045
+      balette three_205: 225006790
+      balette three_163: 811295380
+      balette three_52: 1971210720
+      balette three_26: -1459473851
+      balette three_183: 926161472
+      balette three_203: 1536178948
+      balette three_188: 1880797427
+      balette three_37: 1643638891
+      balette three_151: -2098921979
+      balette three_82: 1568329500
+      balette three_107: -1190199714
+      balette three_158: 1925629843
+      balette three_56: 408936106
+      balette three_9: 1141629567
+      balette three_29: -1061029183
+      balette three_36: 2111267875
+      balette three_120: -1450209007
+      balette three_30: 50687210
+      balette three_71: 792271896
+      balette three_84: 1898191433
+      balette three_149: 961951247
+      balette three_60: 829908870
+      balette three_11: 2020381346
+      balette three_184: 1216549947
+      balette three_197: 2039234806
+      balette three_47: -1448928104
+      balette three_186: -1904950790
+      balette three_79: -1957778158
+      balette three_55: 2123858991
+      balette three_159: 369910611
+      balette three_13: 966563458
+      balette three_7: 1793756460
+      balette three_121: 427327546
+      balette three_89: -1544564604
+      balette three_130: 1576528422
+      balette three_66: -690856308
+      balette three_150: 1916748790
+      balette three_83: 218444930
+      balette three_126: -176619275
+      balette three_192: -889232484
+      balette three_160: -897514875
+      balette three_173: -798892341
+      balette three_35: -962983393
+      balette three_91: 1216815731
+      balette three_6: 406177757
+      balette three_50: -468619093
+      balette three_33: 116567560
+      balette three_166: -393371506
+      balette three_77: 1552809403
+      balette three_67: 2054491718
+      balette three_141: -274329971
+      balette three_104: 1502451641
+      balette three_20: 1202392090
+      balette three_24: 1993613174
+      balette three_143: -1017942309
+      balette three_189: 1691207446
+      balette three_38: 1003565007
+      balette three_113: 2032694439
+      balette three_102: 1728195021
+      balette three_164: 196519513
+      balette three_39: 1435608350
+      balette three_8: -840523650
+      balette three_61: 968968581
+      balette three_174: 424507511
+      balette three_181: -1355029458
+      balette three_207: -1596178545
+      balette three_92: -1428325048
+      balette three_51: -1221509656
+      balette three_122: 1434910473
+      balette three_80: -1442631538
+      balette three_155: 1719079609
+      balette three_44: 1959977509
+      balette three_198: -1670371354
+      balette three_147: 308852526
+      balette three_4: -199497305
+      balette three_157: 1746855196
+      balette three_119: -302203351
+      balette three_117: -884067881
+      balette three_110: -143681189
+      balette three_199: 1402380230
+      balette three_193: -187490416
+      balette three_140: 59854515
+      balette three_109: -279386015
+      balette three_43: -722511021
+      balette three_161: 172793362
+      balette three_180: 1760688346
+      balette three_15: -543846922
+      balette three_87: 1731835312
+      balette three_106: 132160548
+      balette three_96: 1714786296
+      balette three_187: -768922483
+      balette three_16: 1004298992
+      balette three_25: 1680459505
+      balette three_23: 709298044
+      balette three_137: 645779295
+      balette three_74: 1501577905
+      balette three_95: -779921715
+      balette three_168: -2038441703
+      balette three_206: 370377719
+      balette three_179: -195226975
+      balette three_200: -1187402470
+      balette three_27: -1068476470
+      balette three_178: -1451791815
+      balette three_133: -1787208857
+      balette three_14: -501002810
+      balette three_176: 2131958725
+      balette three_108: 1320487723
+      balette three_48: 1657984823
+      balette three_195: -1473566172
+      balette three_169: 2035648614
+      balette three_136: 367083774
+      balette three_12: 1072183635
+      balette three_125: 448120784
+      balette three_70: -928724685
+      balette three_65: -108181753
+      balette three_1: -505588692
+      balette three_115: 1716255852
+      balette three_175: 1361436323
+      balette three_85: 396339955
+      balette three_32: -665703663
+      balette three_42: -510669731
+      balette three_129: -40473229
+      balette three_21: 1998624990
+      balette three_190: 2088961117
+      balette three_58: -1149673860
+      balette three_204: -1270823460
+      balette three_202: 449068549
+      balette three_5: 1066099417
+      balette three_118: 592671266
+      balette three_31: 1401602173
+      balette three_45: -300553141
+      balette three_97: 1178505695
+      balette three_127: 1071505078
+      balette three_17: -176875144
+      balette three_54: -1563936640
+      balette three_138: 866390355
+      balette three_146: 476241433
+      balette three_59: 1937110094
+      balette three_114: -76406914
+      balette three_28: -335849422
+      balette three_93: -497759203
+      balette three_171: 584315851
+      balette three_57: -2132447166
+      balette three_46: -841485938
+      balette three_153: 195369539
+      balette three_94: -863689705
+      balette three_182: -58437071
+      balette three_185: 2043121588
+      balette three_22: 1750724069
+      balette three_139: -1823385889
+      balette three_123: -2071452428
+      balette three_64: -1450702197
+      balette three_69: -721226759
+      balette three_72: 580868392
+      balette three_142: -857584432
+      balette three_3: 358042420
+      balette three_10: 455737485
+      balette three_194: 1404410593
+      balette three_145: 44913205
+      balette three_134: -1346809587
+      balette three_103: -274649133
+      balette three_156: -1830254022
+      balette three_62: -755416773
+      balette three_128: -1190032646
+      balette three_111: 1013358454
+      balette three_41: 495718347
+      balette three_81: -1802986616
+      balette three_73: 1881012447
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
