@@ -6751,7 +6751,6 @@ GameObject:
   - component: {fileID: 987185521}
   - component: {fileID: 987185523}
   - component: {fileID: 987185522}
-  m_Layer: 0
   m_Name: Pedro NPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11929,7 +11928,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1529367244}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.849, y: 3.49, z: 0}
+  m_LocalPosition: {x: 10.859, y: 3.49, z: 0}
   m_LocalScale: {x: 0.71716, y: 0.71716, z: 0.71716}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11956,7 +11955,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeIntensityEnabled: 0
-  m_ApplyToSortingLayers: 00000000
+  m_ApplyToSortingLayers: 0db5d57c00000000
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
