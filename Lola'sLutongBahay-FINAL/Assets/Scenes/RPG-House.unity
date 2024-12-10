@@ -6751,6 +6751,7 @@ GameObject:
   - component: {fileID: 987185521}
   - component: {fileID: 987185523}
   - component: {fileID: 987185522}
+  m_Layer: 8
   m_Name: Pedro NPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
