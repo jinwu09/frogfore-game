@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Oilbottle
-  m_Shader: {fileID: -6465566751694194690, guid: 582a8db6ea15da547a8d5afb7802c4ac, type: 3}
+  m_Name: Salt
+  m_Shader: {fileID: -6465566751694194690, guid: 35fa2560a105f8d47b1eb4528664dde3, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -25,7 +25,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: e1eb310133127ed4c919b3c56317189d, type: 3}
+        m_Texture: {fileID: 2800000, guid: a239abc6d1957e548983d432de63f8d9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 8ace9b90b2b70c3478273fb0a9d947c9, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -50,13 +50,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - PixelSnap: 0
     - _EnableExternalAlpha: 0
     - _GlowSwitch: 0
-    - _Thickness: 0.095
+    - _Thickness: 0.05
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _Outline_Color: {r: 975.8118, g: 919.5922, b: 116.4549, a: 0}
+    - _Outline_Color: {r: 822.04626, g: 774.7033, b: 98.98987, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
