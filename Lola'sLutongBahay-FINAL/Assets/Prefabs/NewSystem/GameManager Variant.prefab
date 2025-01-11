@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6084277103904163918
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2989917699905267584, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_Name
+      value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267584, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267585, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: playerStats.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[0].title
+      value: Egg Hunt
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[1].title
+      value: Ms. Extrovert
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[2].title
+      value: Breakfast Quest
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[3].title
+      value: Start the Engine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[4].title
+      value: Purple Delivery
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[5].title
+      value: "Pedro\u2019s Debt"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[6].title
+      value: Tangy Pursuit
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[7].title
+      value: Rice Mastery
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[8].title
+      value: Carrot Crusade
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[9].title
+      value: Saucy Symphony
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[10].title
+      value: "\u201CSaucy Symphony\u201D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[0].subtitle
+      value: Collect an egg
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[1].subtitle
+      value: Talk to every citizen
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[2].subtitle
+      value: Finish level 1 Omelet
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[3].subtitle
+      value: Find the jeepney key
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[4].subtitle
+      value: Harvest an Eggplant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[5].subtitle
+      value: Find 1 pack of pogs
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[6].subtitle
+      value: Harvest a onion
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[7].subtitle
+      value: Finish Level 2 Arroz Caldo
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[8].subtitle
+      value: Harvest a Carrot
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[9].subtitle
+      value: Finish Level 3 Afritada
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: tasks.Array.data[10].subtitle
+      value: Finish Level 3 Afritada
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1466265332}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadLevel
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: DestroyMePls
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: MainMenuManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: PlayerController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267589, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: allTaskFinished.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.0511267
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5781642
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.1284192
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989917699905267590, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+--- !u!1 &9012234488905838542 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2989917699905267584, guid: b2bd2ab9d2f29b443a5e1d6d53c34996, type: 3}
+  m_PrefabInstance: {fileID: 6084277103904163918}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1466265332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9012234488905838542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3ee98e95e8c547408aedb958b1b9cdd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadingScreen: {fileID: 0}
+  slider: {fileID: 0}
+--- !u!114 &1466265333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9012234488905838542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1120c8c48cb35b2469a1a53fb2d2c9bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 2631490655161632575, guid: 5951f5db5880b9e4995eab16596d4d70, type: 3}

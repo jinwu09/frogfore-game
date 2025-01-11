@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class QuestPositionGuide : MonoBehaviour
 {
+    public GameObject startcook;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,5 +15,20 @@ public class QuestPositionGuide : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Player")
+        {
+            startcook.SetActive(true);
+        }
+    }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Player"))
+        {
+            startcook.SetActive(false);
+        }
     }
 }
